@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes. --->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-ogundapo-238958239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuel-ogundapo-238958239/" height="30" width="40" /></a>
 
 </p>
-<img   align="center" alt = "Coding" width="400" src = "https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
+<img   align="left" alt = "Coding" width="400" src = "https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=coachemmy&label=Profile%20views&color=0e75b6&style=flat" alt="coachemmy" /> </p>
 
