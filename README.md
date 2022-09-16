@@ -1,6 +1,6 @@
 <h2>Hi, I’m Emmanuel Abiola (coachemmy)</h2>
 <ul>
-<li>👀 I’m interested in MERN</li>
+<li>🌟 I’m interested in MERN</li>
 <li>🌱 I’m currently in the fullstack development field </li>
 <li>💞️ I’m looking to collaborate on frontend and backend projects</li> </ul>
 
@@ -17,3 +17,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coachemmy&show_icons=true&locale=en" alt="coachemmy" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
