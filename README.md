@@ -1,4 +1,4 @@
-Hi, I’m Emmanuel Abiola (coachemmy)
+<h2>Hi, I’m Emmanuel Abiola (coachemmy)</h2>
 - 👀 I’m interested in MERN
 - 🌱 I’m currently in the fullstack development field 
 - 💞️ I’m looking to collaborate on frontend and backend projects
