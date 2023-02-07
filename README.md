@@ -1,6 +1,6 @@
 <h2>Hi, I’m Emmanuel Abiola (coachemmy)</h2>
 <ul>
-<li>🌟 I’m interested in MERN</li>
+<li>🌟 I’m interested in React Native/React JS</li>
 <li>🌱 I’m currently in the fullstack development field </li>
 <li>💞️ I’m looking to collaborate on frontend and backend projects</li> </ul>
 
